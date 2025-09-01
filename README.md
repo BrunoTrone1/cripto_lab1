@@ -1,4 +1,16 @@
-# Laboratorio 1 - Seguridad Informática  
+# Laboratorio 1 
+
+## Índice
+
+- [Descripción](#descripción)
+- [Herramientas utilizadas](#herramientas-utilizadas)
+- [Estructura del proyecto](#estructura-del-proyecto)
+- [Librerías necesarias](#librerías-necesarias)
+- [Ejecución de los programas](#ejecución-de-los-programas)
+  - [algoritmo_cifrado.py](#algoritmo_cifradopy)
+  - [modo_stealth.py](#modo_stealthpy)
+  - [MitM.py](#mitmpy)F
+
 
 ## Descripción  
 
@@ -31,12 +43,12 @@ La experimentación se apoyó en IA generativa (ChatGPT) para la generación ini
 │ ├── ac1/ # Imágenes y capturas de la Actividad 1
 │ ├── ac2/ # Imágenes y capturas de la Actividad 2
 │ ├── ac3/ # Imágenes y capturas de la Actividad 3
-├── algoritmo_cifrado.py
-├── captura.pcap
-├── lab01_informe.tex
-├── MitM.py
-├── modo_stealth.py
-└── README.md
+├── [algoritmo_cifrado.py](./algoritmo_cifrado.py)
+├── [captura.pcap](./captura.pcap)
+├── [lab01_informe.tex](./lab01_informe.tex)
+├── [MitM.py](./MitM.py)
+├── [modo_stealth.py](./modo_stealth.py)
+└── [README.md](./README.md)
 ```
 
 ---
