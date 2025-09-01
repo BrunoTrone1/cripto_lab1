@@ -43,12 +43,12 @@ La experimentación se apoyó en IA generativa (ChatGPT) para la generación ini
 │ ├── ac1/ # Imágenes y capturas de la Actividad 1
 │ ├── ac2/ # Imágenes y capturas de la Actividad 2
 │ ├── ac3/ # Imágenes y capturas de la Actividad 3
-├── [algoritmo_cifrado.py]
-├── [captura.pcap]
-├── [lab01_informe.tex]
-├── [MitM.py]
-├── [modo_stealth.py]
-└── [README.md]
+├── algoritmo_cifrado.py
+├── captura.pcap
+├── lab01_informe.tex
+├── MitM.py
+├── modo_stealth.py
+└── README.md
 ```
 
 ---
